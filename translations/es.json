@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "research": "Investigación",
+    "teaching": "Docencia",
+    "news": "Noticias",
+    "cv": "CV",
+    "contact": "Contacto",
+    "dashboard": "Panel"
+  },
+  "home": {
+    "welcome": "Bienvenido",
+    "subheading": "Sitio web oficial de {{name}}, {{title}}.",
+    "readMore": "Leer más sobre mí",
+    "latestNews": "Últimas Noticias",
+    "moreNews": "Más noticias",
+    "recentPublications": "Publicaciones Recientes",
+    "viewAllPublications": "Ver todas las publicaciones"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "researchInterests": "Intereses de Investigación"
+  },
+  "research": {
+    "projectsTitle": "Proyectos de Investigación",
+    "currentProjects": "Proyectos Actuales",
+    "pastProjects": "Proyectos Anteriores",
+    "funding": "Financiación",
+    "viewRepo": "Ver Repositorio",
+    "publicationsTitle": "Publicaciones",
+    "link": "Enlace"
+  },
+  "teaching": {
+    "title": "Docencia",
+    "currentCourses": "Cursos Actuales",
+    "pastCourses": "Cursos Anteriores",
+    "viewSyllabus": "Ver Syllabus",
+    "noCurrentCourses": "No se imparten cursos actualmente.",
+    "noPastCourses": "No hay cursos anteriores para mostrar."
+  },
+  "news": {
+    "title": "Noticias",
+    "readMore": "Leer Más"
+  },
+  "cv": {
+    "title": "Currículum Vitae",
+    "downloadButton": "Descargar CV Completo (PDF)",
+    "education": "Educación",
+    "appointments": "Cargos",
+    "selectedPublications": "Publicaciones Seleccionadas",
+    "grants": "Subvenciones"
+  },
+  "contact": {
+    "title": "Contacto",
+    "getInTouch": "Ponerse en Contacto",
+    "email": "Correo Electrónico",
+    "office": "Oficina",
+    "affiliation": "Afiliación",
+    "officeLocation": "Ubicación de la Oficina",
+    "mapPlaceholder": "Espacio para el Mapa"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "placeholder": "Este es un panel de ejemplo para administrar el contenido del sitio. La funcionalidad no está implementada.",
+    "edit": "Editar",
+    "addNew": "Añadir Nuevo",
+    "contentNames": {
+      "publication": "Publicación",
+      "research": "Proyecto de Investigación",
+      "course": "Curso",
+      "news": "Noticia"
+    },
+    "publications": {
+      "title": "Publicaciones",
+      "add": "Añadir Publicación"
+    },
+    "research": {
+      "title": "Proyectos de Investigación",
+      "add": "Añadir Proyecto"
+    },
+    "courses": {
+      "title": "Cursos",
+      "add": "Añadir Curso"
+    },
+    "news": {
+      "title": "Noticias",
+      "add": "Añadir Noticia"
+    },
+    "siteSettings": {
+      "title": "Configuración del Sitio"
+    }
+  },
+  "forms": {
+    "common": {
+      "add": "Añadir",
+      "update": "Actualizar"
+    },
+    "publication": {
+      "title": "Título",
+      "authors": "Autores",
+      "journal": "Revista/Conferencia",
+      "year": "Año",
+      "doi": "DOI",
+      "link": "Enlace (ej. PDF)"
+    },
+    "research": {
+      "title": "Título",
+      "description": "Descripción",
+      "status": "Estado",
+      "statusOptions": {
+        "current": "Actual",
+        "past": "Pasado"
+      },
+      "funding": "Fuente de Financiación",
+      "repoLink": "Enlace del Repositorio"
+    },
+    "course": {
+      "code": "Código del Curso",
+      "title": "Título",
+      "description": "Descripción",
+      "status": "Estado",
+      "statusOptions": {
+        "current": "Actual",
+        "past": "Pasado"
+      },
+      "syllabusLink": "Enlace del Syllabus"
+    },
+    "news": {
+      "date": "Fecha",
+      "title": "Título",
+      "description": "Descripción",
+      "link": "Enlace"
+    },
+    "settings": {
+      "name": "Nombre",
+      "title": "Título",
+      "affiliation": "Afiliación",
+      "email": "Correo Electrónico",
+      "office": "Oficina",
+      "photoUrl": "URL de la Foto",
+      "bio": "Biografía",
+      "interests": "Intereses de Investigación (separados por comas)",
+      "save": "Guardar Configuración"
+    }
+  }
+}

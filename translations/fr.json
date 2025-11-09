@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "research": "Recherche",
+    "teaching": "Enseignement",
+    "news": "Actualités",
+    "cv": "CV",
+    "contact": "Contact",
+    "dashboard": "Tableau de bord"
+  },
+  "home": {
+    "welcome": "Bienvenue",
+    "subheading": "Site officiel de {{name}}, {{title}}.",
+    "readMore": "En savoir plus sur moi",
+    "latestNews": "Dernières actualités",
+    "moreNews": "Plus d'actualités",
+    "recentPublications": "Publications récentes",
+    "viewAllPublications": "Voir toutes les publications"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "researchInterests": "Domaines de recherche"
+  },
+  "research": {
+    "projectsTitle": "Projets de recherche",
+    "currentProjects": "Projets actuels",
+    "pastProjects": "Projets passés",
+    "funding": "Financement",
+    "viewRepo": "Voir le dépôt",
+    "publicationsTitle": "Publications",
+    "link": "Lien"
+  },
+  "teaching": {
+    "title": "Enseignement",
+    "currentCourses": "Cours actuels",
+    "pastCourses": "Cours passés",
+    "viewSyllabus": "Voir le syllabus",
+    "noCurrentCourses": "Aucun cours dispensé actuellement.",
+    "noPastCourses": "Aucun cours passé à afficher."
+  },
+  "news": {
+    "title": "Actualités",
+    "readMore": "Lire la suite"
+  },
+  "cv": {
+    "title": "Curriculum Vitae",
+    "downloadButton": "Télécharger le CV complet (PDF)",
+    "education": "Formation",
+    "appointments": "Postes occupés",
+    "selectedPublications": "Publications sélectionnées",
+    "grants": "Subventions"
+  },
+  "contact": {
+    "title": "Contact",
+    "getInTouch": "Me contacter",
+    "email": "Email",
+    "office": "Bureau",
+    "affiliation": "Affiliation",
+    "officeLocation": "Emplacement du bureau",
+    "mapPlaceholder": "Emplacement de la carte"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "placeholder": "Ceci est un tableau de bord de démonstration pour la gestion du contenu du site. La fonctionnalité n'est pas implémentée.",
+    "edit": "Modifier",
+    "addNew": "Ajouter",
+    "contentNames": {
+      "publication": "Publication",
+      "research": "Projet de recherche",
+      "course": "Cours",
+      "news": "Actualité"
+    },
+    "publications": {
+      "title": "Publications",
+      "add": "Ajouter une publication"
+    },
+    "research": {
+      "title": "Projets de recherche",
+      "add": "Ajouter un projet"
+    },
+    "courses": {
+      "title": "Cours",
+      "add": "Ajouter un cours"
+    },
+    "news": {
+      "title": "Actualités",
+      "add": "Ajouter une actualité"
+    },
+    "siteSettings": {
+      "title": "Paramètres du site"
+    }
+  },
+  "forms": {
+    "common": {
+      "add": "Ajouter",
+      "update": "Mettre à jour"
+    },
+    "publication": {
+      "title": "Titre",
+      "authors": "Auteurs",
+      "journal": "Journal/Conférence",
+      "year": "Année",
+      "doi": "DOI",
+      "link": "Lien (ex: PDF)"
+    },
+    "research": {
+      "title": "Titre",
+      "description": "Description",
+      "status": "Statut",
+      "statusOptions": {
+        "current": "Actuel",
+        "past": "Passé"
+      },
+      "funding": "Source de financement",
+      "repoLink": "Lien du dépôt"
+    },
+    "course": {
+      "code": "Code du cours",
+      "title": "Titre",
+      "description": "Description",
+      "status": "Statut",
+      "statusOptions": {
+        "current": "Actuel",
+        "past": "Passé"
+      },
+      "syllabusLink": "Lien du syllabus"
+    },
+    "news": {
+      "date": "Date",
+      "title": "Titre",
+      "description": "Description",
+      "link": "Lien"
+    },
+    "settings": {
+      "name": "Nom",
+      "title": "Titre",
+      "affiliation": "Affiliation",
+      "email": "Email",
+      "office": "Bureau",
+      "photoUrl": "URL de la photo",
+      "bio": "Biographie",
+      "interests": "Domaines de recherche (séparés par des virgules)",
+      "save": "Enregistrer les paramètres"
+    }
+  }
+}

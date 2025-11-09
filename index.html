@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Professor's Academic Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      // Custom Tailwind theme to match the component styles
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: '#0052CC', // A professional blue
+              'primary-dark': '#0041A3',
+              'primary-light': '#E6F0FF',
+              secondary: '#F8F9FA', // A light grey for backgrounds
+              background: '#FFFFFF',
+              text: '#333333',
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      /* Using a professional, readable font */
+      @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+      body {
+        font-family: 'Open Sans', sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="importmap">
+    {
+      "imports": {
+        "react": "https://aistudiocdn.com/react@^19.2.0",
+        "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+        "react/": "https://aistudiocdn.com/react@^19.2.0/",
+        "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.9.5"
+      }
+    }
+    </script>
+    <script type="module" src="./index.tsx"></script>
+  </body>
+</html>

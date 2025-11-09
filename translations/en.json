@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "research": "Research",
+    "teaching": "Teaching",
+    "news": "News",
+    "cv": "CV",
+    "contact": "Contact",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "subheading": "Official website of {{name}}, {{title}}.",
+    "readMore": "Read more about me",
+    "latestNews": "Latest News",
+    "moreNews": "More news",
+    "recentPublications": "Recent Publications",
+    "viewAllPublications": "View all publications"
+  },
+  "about": {
+    "title": "About Me",
+    "researchInterests": "Research Interests"
+  },
+  "research": {
+    "projectsTitle": "Research Projects",
+    "currentProjects": "Current Projects",
+    "pastProjects": "Past Projects",
+    "funding": "Funding",
+    "viewRepo": "View Repository",
+    "publicationsTitle": "Publications",
+    "link": "Link"
+  },
+  "teaching": {
+    "title": "Teaching",
+    "currentCourses": "Current Courses",
+    "pastCourses": "Past Courses",
+    "viewSyllabus": "View Syllabus",
+    "noCurrentCourses": "No courses currently being taught.",
+    "noPastCourses": "No past courses to display."
+  },
+  "news": {
+    "title": "News",
+    "readMore": "Read More"
+  },
+  "cv": {
+    "title": "Curriculum Vitae",
+    "downloadButton": "Download Full CV (PDF)",
+    "education": "Education",
+    "appointments": "Appointments",
+    "selectedPublications": "Selected Publications",
+    "grants": "Grants"
+  },
+  "contact": {
+    "title": "Contact",
+    "getInTouch": "Get in Touch",
+    "email": "Email",
+    "office": "Office",
+    "affiliation": "Affiliation",
+    "officeLocation": "Office Location",
+    "mapPlaceholder": "Map Placeholder"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "placeholder": "This is a placeholder dashboard for managing site content. Functionality is not implemented.",
+    "edit": "Edit",
+    "addNew": "Add New",
+    "contentNames": {
+      "publication": "Publication",
+      "research": "Research Project",
+      "course": "Course",
+      "news": "News Item"
+    },
+    "publications": {
+      "title": "Publications",
+      "add": "Add Publication"
+    },
+    "research": {
+      "title": "Research Projects",
+      "add": "Add Project"
+    },
+    "courses": {
+      "title": "Courses",
+      "add": "Add Course"
+    },
+    "news": {
+      "title": "News Items",
+      "add": "Add News"
+    },
+    "siteSettings": {
+      "title": "Site Settings"
+    }
+  },
+  "forms": {
+    "common": {
+      "add": "Add",
+      "update": "Update"
+    },
+    "publication": {
+      "title": "Title",
+      "authors": "Authors",
+      "journal": "Journal/Conference",
+      "year": "Year",
+      "doi": "DOI",
+      "link": "Link (e.g., PDF)"
+    },
+    "research": {
+      "title": "Title",
+      "description": "Description",
+      "status": "Status",
+      "statusOptions": {
+        "current": "Current",
+        "past": "Past"
+      },
+      "funding": "Funding Source",
+      "repoLink": "Repository Link"
+    },
+    "course": {
+      "code": "Course Code",
+      "title": "Title",
+      "description": "Description",
+      "status": "Status",
+      "statusOptions": {
+        "current": "Current",
+        "past": "Past"
+      },
+      "syllabusLink": "Syllabus Link"
+    },
+    "news": {
+      "date": "Date",
+      "title": "Title",
+      "description": "Description",
+      "link": "Link"
+    },
+    "settings": {
+      "name": "Name",
+      "title": "Title",
+      "affiliation": "Affiliation",
+      "email": "Email",
+      "office": "Office",
+      "photoUrl": "Photo URL",
+      "bio": "Biography",
+      "interests": "Research Interests (comma-separated)",
+      "save": "Save Settings"
+    }
+  }
+}

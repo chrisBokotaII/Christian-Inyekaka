@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "عني",
+    "research": "الأبحاث",
+    "teaching": "التدريس",
+    "news": "الأخبار",
+    "cv": "السيرة الذاتية",
+    "contact": "اتصل بنا",
+    "dashboard": "لوحة التحكم"
+  },
+  "home": {
+    "welcome": "أهلاً وسهلاً",
+    "subheading": "الموقع الرسمي لـ {{name}}، {{title}}.",
+    "readMore": "اقرأ المزيد عني",
+    "latestNews": "آخر الأخبار",
+    "moreNews": "المزيد من الأخبار",
+    "recentPublications": "أحدث المنشورات",
+    "viewAllPublications": "عرض جميع المنشورات"
+  },
+  "about": {
+    "title": "عني",
+    "researchInterests": "الاهتمامات البحثية"
+  },
+  "research": {
+    "projectsTitle": "مشاريع البحث",
+    "currentProjects": "المشاريع الحالية",
+    "pastProjects": "المشاريع السابقة",
+    "funding": "التمويل",
+    "viewRepo": "عرض المستودع",
+    "publicationsTitle": "المنشورات",
+    "link": "رابط"
+  },
+  "teaching": {
+    "title": "التدريس",
+    "currentCourses": "المقررات الحالية",
+    "pastCourses": "المقررات السابقة",
+    "viewSyllabus": "عرض المنهج",
+    "noCurrentCourses": "لا توجد مقررات تدرس حاليًا.",
+    "noPastCourses": "لا توجد مقررات سابقة لعرضها."
+  },
+  "news": {
+    "title": "الأخبار",
+    "readMore": "اقرأ المزيد"
+  },
+  "cv": {
+    "title": "السيرة الذاتية",
+    "downloadButton": "تحميل السيرة الذاتية كاملة (PDF)",
+    "education": "التعليم",
+    "appointments": "المناصب",
+    "selectedPublications": "منشورات مختارة",
+    "grants": "المنح"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "getInTouch": "تواصل معي",
+    "email": "البريد الإلكتروني",
+    "office": "المكتب",
+    "affiliation": "الانتماء",
+    "officeLocation": "موقع المكتب",
+    "mapPlaceholder": "عنصر نائب للخريطة"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "placeholder": "هذه لوحة تحكم تجريبية لإدارة محتوى الموقع. الوظائف غير مفعلة.",
+    "edit": "تعديل",
+    "addNew": "إضافة جديد",
+    "contentNames": {
+      "publication": "منشور",
+      "research": "مشروع بحثي",
+      "course": "مقرر",
+      "news": "خبر"
+    },
+    "publications": {
+      "title": "المنشورات",
+      "add": "إضافة منشور"
+    },
+    "research": {
+      "title": "مشاريع البحث",
+      "add": "إضافة مشروع"
+    },
+    "courses": {
+      "title": "المقررات",
+      "add": "إضافة مقرر"
+    },
+    "news": {
+      "title": "الأخبار",
+      "add": "إضافة خبر"
+    },
+    "siteSettings": {
+      "title": "إعدادات الموقع"
+    }
+  },
+  "forms": {
+    "common": {
+      "add": "إضافة",
+      "update": "تحديث"
+    },
+    "publication": {
+      "title": "العنوان",
+      "authors": "المؤلفون",
+      "journal": "المجلة/المؤتمر",
+      "year": "السنة",
+      "doi": "DOI",
+      "link": "رابط (مثل PDF)"
+    },
+    "research": {
+      "title": "العنوان",
+      "description": "الوصف",
+      "status": "الحالة",
+      "statusOptions": {
+        "current": "حالي",
+        "past": "سابق"
+      },
+      "funding": "مصدر التمويل",
+      "repoLink": "رابط المستودع"
+    },
+    "course": {
+      "code": "رمز المقرر",
+      "title": "العنوان",
+      "description": "الوصف",
+      "status": "الحالة",
+      "statusOptions": {
+        "current": "حالي",
+        "past": "سابق"
+      },
+      "syllabusLink": "رابط المنهج"
+    },
+    "news": {
+      "date": "التاريخ",
+      "title": "العنوان",
+      "description": "الوصف",
+      "link": "الرابط"
+    },
+    "settings": {
+      "name": "الاسم",
+      "title": "اللقب",
+      "affiliation": "الانتماء",
+      "email": "البريد الإلكتروني",
+      "office": "المكتب",
+      "photoUrl": "رابط الصورة",
+      "bio": "السيرة الذاتية",
+      "interests": "الاهتمامات البحثية (مفصولة بفاصلة)",
+      "save": "حفظ الإعدادات"
+    }
+  }
+}
